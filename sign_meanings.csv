@@ -1,0 +1,59 @@
+﻿Mã biển báo,Ý nghĩa
+DP.135,Hết tất cả các lệnh cấm
+P.102,Cấm đi ngược chiều
+P.103a,Cấm xe ô tô
+P.103b,Cấm xe ô tô rẽ phải
+P.103c,Cấm xe ô tô rẽ trái
+P.104,Cấm xe máy
+P.106a,Cấm xe tải
+P.106P,Cấm xe tải có trọng lượng lớn hơn giá trị trên biển
+P.107a,Cấm xe oto khách
+P.112,Cấm người đi bộ
+P.115,Hạn chế trọng lượng xe
+P.117,Hạn chế chiều cao
+P.123a,Cấm rẽ trái
+P.123b,Cấm rẽ phải
+P.124a,Cấm quay đầu xe
+P.124b,Cấm ô tô quay đầu xe
+P.124c,Cấm rẽ trái và quay đầu xe
+P.125,Cấm Vượt
+P.127,Tốc độ tối đa cho phép
+P.128,Cấm sử dụng còi
+P.130,Cấm dừng xe và đỗ xe
+P.131a,Cấm Dừng xe
+P.137,Cấm rẽ trái rẽ phải
+P.245a,Đi chậm
+R.301c,Bắt buộc rẽ trái
+R.301d,Bắt buộc đi thẳng và rẽ phải
+R.301e,Bắt buộc đi thẳng và rẽ trái
+R.302a,Hướng phải đi vòng sang phải tránh chướng ngại vật
+R.302b,Hướng phải đi vòng sang trái tránh chướng ngại vật
+R.303,Nơi giao nhau chạy theo vòng xuyến
+R.407a,ĐƯờng một chiều đi thẳng
+R.409,Điểm quay xe
+R.425,Biển chỉ dẫn bệnh viện
+R.434,Bến xe buýt
+S.509a,Chiều cao an toàn
+W.201a,Chỗ ngoặt nguy hiểm vòng bên trái
+W.201b,Chỗ ngoặt nguy hiểm vòng bên phải
+W.202a,Nhiều chỗ ngoặt nguy hiểm liên tiếp bên trái
+W.202b,Nhiều chỗ ngoặt nguy hiểm liên tiếp bên phải
+W.203b,Đường bị hẹp về phía bên trái
+W.203c,Đường bị hẹp về phía bên phải
+W.205a,Đường giao nhau theo kiểu chữ thập
+W.205b,Đường giao nhau có nhánh bên phải
+W.205d,Đường giao nhau dạng chữ T
+W.207a,Giao nhau với đường không ưu tiên
+W.207b,Giao nhau với đường không ưu tiên
+W.207c,Giao nhau với đường không ưu tiên
+W.208,Giao nhau với đường ưu tiên
+W.209,Giao nhau có tín hiệu đèn
+W.210,Giao nhau với đường sắt có rào chắn 
+W.219,Xuống dốc nguy hiểm
+W.221b,Đường có gờ giảm tốc
+W.224,Đường người đi bộ cắt ngang
+W.225,Nguy hiểm trẻ em
+W.227,Nguy hiểm công trường
+W.233,Nguy hiểm khác
+W.235,Đường đôi
+W.245a,Đi chậm

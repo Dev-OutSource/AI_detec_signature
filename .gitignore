@@ -1,0 +1,5 @@
+dataset
+test_dataset
+**/__pycache__
+
+/env/*
